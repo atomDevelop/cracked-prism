@@ -1,0 +1,5 @@
+/test/
+/.git/
+/.npmignore
+/.git*
+/node_modules/

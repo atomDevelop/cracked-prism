@@ -1,7 +1,7 @@
 {
   "name": "cracked-prism",
   "version": "1.0.0",
-  "description": "\"visualize\", \"gradient\", \"color\"",
+  "description": "will provide you a series of colors between two colors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,14 @@
     "url": "git+https://github.com/atomDevelop/cracked-prism.git"
   },
   "keywords": [
-    "\"visualize\"",
-    "\"gradient\"",
-    "\"color\""
+    "color",
+    "visualize"
+  ],
+  "files": [
+    "index.js"
   ],
   "author": "atom.develop",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/atomDevelop/cracked-prism/issues"
   },
