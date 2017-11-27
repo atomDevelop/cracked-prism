@@ -1,0 +1,24 @@
+{
+  "name": "cracked-prism",
+  "version": "1.0.0",
+  "description": "\"visualize\", \"gradient\", \"color\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomDevelop/cracked-prism.git"
+  },
+  "keywords": [
+    "\"visualize\"",
+    "\"gradient\"",
+    "\"color\""
+  ],
+  "author": "atom.develop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atomDevelop/cracked-prism/issues"
+  },
+  "homepage": "https://github.com/atomDevelop/cracked-prism#readme"
+}
