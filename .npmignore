@@ -3,3 +3,4 @@
 /.npmignore
 /.git*
 /node_modules/
+/result

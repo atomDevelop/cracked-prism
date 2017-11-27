@@ -1,7 +1,7 @@
 {
   "name": "cracked-prism",
-  "version": "1.0.0",
-  "description": "will provide you a series of colors between two colors",
+  "version": "1.0.1",
+  "description": "will provide you a series of colors between two colors. #linear_gradient",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "color",
-    "visualize"
+    "visualize",
+    "gradient"
   ],
   "files": [
     "index.js"
