@@ -1,6 +1,6 @@
 {
   "name": "cracked-prism",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "will provide you a series of colors between two colors. #linear_gradient",
   "main": "index.js",
   "scripts": {

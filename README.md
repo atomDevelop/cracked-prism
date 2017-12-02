@@ -14,7 +14,7 @@ var prism = crackedPrism(["#423C04", "#23A580"], 10)
 
 ### Installation
 ```sh
-npm install in-other-words
+npm install cracked-prism
 ```
 ### License
 
